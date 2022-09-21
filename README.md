@@ -1,16 +1,16 @@
 # Figma App Design Clone
 
-A new Flutter project.
+A simple one screen from [Figma](www.figma.com) clone app  using Flutter
+# How It Works
 
-## Getting Started
+ 1. Run cd AppDeign-Clone  command on your terminal 
+ 2. Run  dart pub get command on your terminal  to get all dependencies  used  
+ 3. Run flutter run on your terminal 
 
-This project is a starting point for a Flutter application.
+ # **Technologies**
 
-A few resources to get you started if this is your first Flutter project:
+>  Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ 
+![image](https://drive.google.com/uc?export=view&id=1HmI9VejbTRjafEoUHEMUjJ0VsRqbEiFD)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
